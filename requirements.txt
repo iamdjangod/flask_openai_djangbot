@@ -1,0 +1,9 @@
+Flask==2.2.3
+openai==0.27.2
+multidict
+typing_extensions
+attrs
+yarl
+async_timeout
+aiosignal
+charset_normalizer
