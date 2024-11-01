@@ -60,7 +60,7 @@ openai.api_key = "your-api-key"
 ```
 c. Replace "your-api-key" with your actual OpenAI API key. It should look something like this:
 ```python
-openai.api_key = "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"
+openai.api_key = "open_ai_secret_key"
 ```
 d. Configure your bot
 ```python
