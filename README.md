@@ -1,11 +1,10 @@
 # Flask-OpenAI-Djangbot
 A Flask chatbot app(Djangbot) powered by OpenAI's GPT. Djangbot allows users to interact with different characters, each with their unique backgrounds and personalities. Additionally, it features a user-friendly and mobile responsive chatbot UI.
 
+![Alt text](https://github.com/iamdjangod/flask_openai_djangbot/blob/main/djangbot_1.png)
 
-![alt text](https://github.com/iamdjangod/flask_openai_djangbot/blob/main/djangbot_1.png?raw=true)
 
-
-![alt text](https://github.com/iamdjangod/flask_openai_djangbot/blob/main/djangbot_2.png?raw=true)
+![Alt text](https://github.com/iamdjangod/flask_openai_djangbot/blob/main/djangbot_2.png)
 
 
 ![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)
